@@ -7,11 +7,11 @@
 
 ### :chart_with_upwards_trend: Here's my github README stats:
 
-![Regina's GitHub stats](https://github-readme-stats.vercel.app/api?username=regina5425&theme=algolia&show_icons=true)
+![Regina's GitHub stats](https://github-readme-stats.vercel.app/api?username=regina5425&theme=algolia&show_icons=true&PAT_1)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Regina5425&theme=algolia)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regina5425&layout=compact&theme=algolia)](https://github.com/regina5425/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regina5425&layout=compact&theme=algolia&PAT_1)](https://github.com/regina5425/github-readme-stats)
 
 ### ⚡ Here are the technologies that I am currently working on:
 
