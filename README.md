@@ -2,8 +2,8 @@
 
 :computer: I'm a frontend developer who loves JavaScript technologies and its entire ecosystem.
 
-- 🌱 Currently I'm learning new technologies such as NextJS, Node.js and improving my JS skills.
-- 📫 How to reach me: just write me reina5425@gmail.com or Telegram: https://t.me/ReginaAn
+- 🌱 Currently I develop websites and apps, learning React Native, NodeJS, and improving my Frontend skills.
+- 📫 How to reach me: write me reina5425@gmail.com or Telegram: https://t.me/ReginaAn
 
 ### :chart_with_upwards_trend: Here's my github README stats:
 
@@ -30,3 +30,4 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0.71-blue?logo=react)
